@@ -31,6 +31,7 @@ install(PROGRAMS
   scripts/TransformWorld2Odom.py
   scripts/charging.py
   scripts/AGV.py
+  scripts/drone_controller.py
   DESTINATION lib/${PROJECT_NAME}
 )
 

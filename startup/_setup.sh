@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export NUM_ROBOTS=5
+export NUM_ROBOTS=1
 export KEYWORD=icuas26_1 #icuas26_1 or empty
 export ENV_NAME=${KEYWORD}_world
 export SPAWN_POSE_DOC=positions_${KEYWORD}.txt
